@@ -1,0 +1,834 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"id",
+				"idBusqueda"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"re",
+				"retencionIva"
+			],
+			[
+				"rete",
+				"retencionIva"
+			],
+			[
+				"cal",
+				"calIva"
+			],
+			[
+				"acti",
+				"activeRetencion"
+			],
+			[
+				"fac",
+				"factura"
+			],
+			[
+				"Fact",
+				"Facturas"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"prec",
+				"precioTotal"
+			],
+			[
+				"precio",
+				"precioUnitario"
+			],
+			[
+				"unida",
+				"unidad_medida"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"conce",
+				"concepto"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"slider",
+				"slider-5"
+			],
+			[
+				"me",
+				"menu-responsivo-cont"
+			],
+			[
+				"click",
+				"click-menu"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"categ",
+				"categoria"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"promo",
+				"promociones"
+			],
+			[
+				"des",
+				"despliegue"
+			],
+			[
+				"image",
+				"imagenPromocion"
+			],
+			[
+				"imag",
+				"imagenPromocion"
+			],
+			[
+				"iman",
+				"imagenpromocion"
+			],
+			[
+				"zo",
+				"zoomap"
+			],
+			[
+				"promocion",
+				"promocion"
+			],
+			[
+				"lu",
+				"lugar"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"imagen",
+				"imagenlugar"
+			],
+			[
+				"promoc",
+				"promociones"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"imagenpro",
+				"ImagenPromocion"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prom",
+				"promocion"
+			],
+			[
+				"Pro",
+				"Promocion"
+			],
+			[
+				"catego",
+				"categorias"
+			],
+			[
+				"cate",
+				"categoria"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"to",
+				"Total"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"sub",
+				"subTotal"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"listy",
+				"list-style"
+			],
+			[
+				"ca",
+				"caracteristicas1"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"con",
+				"concepto"
+			],
+			[
+				"orden",
+				"ordenResult"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ve",
+				"vehiculoResult"
+			],
+			[
+				"or",
+				"ordenResult"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"impre",
+				"imprecionOrden"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"link",
+				"link-boton-menu"
+			],
+			[
+				"taba",
+				"tabla-despliegue"
+			],
+			[
+				"idOr",
+				"idOrden_recarga"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/css/site/0-modules/nav-bar.scss",
+			"settings":
+			{
+				"buffer_size": 3245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"bootstrap",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"bootstr",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package intal",
+				"Package Control: Install Package"
+			],
+			[
+				"package inta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/omnivox/bower_components/css/site/0-modules/nav-bar.scss",
+		"/Applications/MAMP/htdocs/destinogourmet/revista/Junio2014.html",
+		"/Applications/MAMP/htdocs/destinogourmet/revista/Mayo2014.html",
+		"/Applications/MAMP/htdocs/destinogourmet/revista/Abril2014.html",
+		"/Applications/MAMP/htdocs/destinogourmet/new_site/index.php",
+		"/Applications/MAMP/htdocs/destinogourmet/inicio.html",
+		"/Applications/MAMP/htdocs/destinogourmet/index.html",
+		"/Applications/MAMP/htdocs/comunicacion/index.php",
+		"/Applications/MAMP/htdocs/destinogourmet/revista/Marzo2014.html",
+		"/Applications/MAMP/htdocs/destinogourmet/menuprincipal - Copia.php",
+		"/Applications/MAMP/htdocs/destinogourmet/revista/Febrero2014.html",
+		"/Applications/MAMP/htdocs/destinogourmet/revistas/Febrero2014.html",
+		"/Applications/MAMP/htdocs/destinogourmet/.htaccess",
+		"/Applications/MAMP/htdocs/destinogourmet/js/funcion.inc",
+		"/Applications/MAMP/htdocs/destinogourmet/inicio.php",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/less-panel/jumbotron.less",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/less-panel/bootstrap.less",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/less-panel/custom.less",
+		"/Applications/MAMP/htdocs/fnyasociados/application/migrations/002_create_factura.php",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/js/factura.js",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/template/factura_mail.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/config/template.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/controllers/encontruccion.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/config/routes.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/template/encontruccion.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/facturas/form.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/models/concepto.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/clientes/details.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/usuarios/list.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/clientes/list.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/partials/navbar.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/controllers/clientes.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/models/cliente.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/clientes/form.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/facturas/list.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/models/factura.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/template/layout.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/controllers/migrate.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/usuarios/form.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/views/facturas/details.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/controllers/usuarios.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/models/usuario.php",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/less-panel/custom-variables.less",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/less-panel/navbar.less",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/js/bootstrap.min.js",
+		"/Applications/MAMP/htdocs/fnyasociados/application/migrations/001_create_users.php",
+		"/Applications/MAMP/htdocs/fnyasociados/assets/js/bootstrap/collapse.js",
+		"/Applications/MAMP/htdocs/fnyasociados/application/config/migration.php",
+		"/Applications/MAMP/htdocs/fnyasociados/encontrucion/index.php",
+		"/Applications/MAMP/htdocs/fnyasociados/application/config/database.php",
+		"/Applications/MAMP/htdocs/clone_eresloquepublicas/css/style.css",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/conferencias.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/inc/new_footer.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/cuida_lo_que_publicas.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/include/publicidad.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/inc/head.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/inc/slider.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/inicio.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/js/responsivemobilemenu.js",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/unete.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/enContruccion.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/eBook.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/descargables_imagen.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/contacto.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/conoce_prensa.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/conoce_equipo.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/conoce.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/aviso_privacidad.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/blog.php",
+		"/Applications/MAMP/htdocs/eresloquepublicas/application/views/blogPerfil.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/custom.less",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/site/list.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/carousel.less",
+		"/Applications/MAMP/htdocs/adondehoy/application/controllers/promociones.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/bootstrap.less",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/promocion.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/partials/navbar_site.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/controllers/web.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/js/mapas.js",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/site/perfil.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/controllers/lugares.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/lugares/form.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/variables.less",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/navbar.less",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/lugares/details.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/lugar.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/core/MY_Model.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/lugares/form_img.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/lugares/list.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/js/panelmapa.js",
+		"/Applications/MAMP/htdocs/adondehoy/application/migrations/002_create_promos.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/imagenlugar.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/template/layout.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/promociones/list.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/partials/navbar.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/imagenpromocion.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/navs.less",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/custom-variables.less",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/template/layout_site.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/config/template.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/less/media.less",
+		"/Applications/MAMP/htdocs/adondehoy/.htaccess",
+		"/Applications/MAMP/htdocs/adondehoy/application/config/routes.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/site_model.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/controllers/acceso.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/controllers/usuarios.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/promociones/form_img.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/site.php",
+		"/Applications/MAMP/htdocs/adondehoy/.gitignore",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/promociones/form.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/template/layout_css.php",
+		"/Applications/MAMP/htdocs/adondehoy/assets/css/jquery-te-1.4.0.css",
+		"/Applications/MAMP/htdocs/adondehoy/application/controllers/categorias.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/models/categoria.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/libraries/Template.php",
+		"/Users/henry_silva_b/Desktop/org.mongodb.mongod.plist",
+		"/Users/henry_silva_b/Desktop/mongod.conf",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/categorias/form.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/categorias/list.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/config/migration.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/config/database.php",
+		"/Applications/MAMP/htdocs/adondehoy/application/views/mapa/mapa.php",
+		"/Applications/MAMP/htdocs/adondehoy/adondehoy.sublime-project",
+		"/Applications/MAMP/htdocs/curatel/application/controllers/panel/gallerySlider.php",
+		"/Applications/MAMP/htdocs/donadores-ci/application/controllers/acceso.php",
+		"/Applications/MAMP/htdocs/unid/actividad6/css/style.css",
+		"/Applications/MAMP/htdocs/unid/actividad6/index.php",
+		"/Applications/MAMP/htdocs/unid/act-salon-1/css/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"png",
+			"conecta",
+			"get",
+			"rows",
+			"Cliente",
+			"usuarios",
+			"form",
+			"form ",
+			"form",
+			"usuario",
+			"usuarios",
+			".navbar-toggle",
+			"nav",
+			"navbar",
+			"header",
+			".destacados > nav",
+			".contenedor-principa",
+			".contenedor-principal ",
+			".contenedor-principal .columna-noticias",
+			".contenedor-principal .columna-noticias ",
+			".suscribete #cont-form-suscribete",
+			"get",
+			" >",
+			"display",
+			"promociones",
+			".navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus",
+			"li",
+			"margin-top",
+			"@navbar-bg",
+			"#0088cc",
+			"un",
+			"unlink",
+			"get",
+			".jqte_focused",
+			"focus",
+			"delete",
+			"#991818",
+			"header",
+			"caracteristicas",
+			"input",
+			"int",
+			"intput",
+			"input_buscador",
+			"link-boton-eliminar",
+			"#tabla-despliegue tbody tr:nth-child(even):hover, #tabla-despliegue tr:hover",
+			"btn",
+			"btnMenu",
+			"addInput",
+			"mapa",
+			".perfil-producto .col",
+			"perfil-producto",
+			"gallery_model",
+			".productos>.catalogo-producto",
+			"catalogo-producto",
+			"5",
+			"id",
+			"5",
+			"html",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"clientes",
+			"cliente",
+			"clientes",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/config/autoload.php",
+					"settings":
+					{
+						"buffer_size": 3154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1682,
+								1682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 421.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bower_components/css/site/0-modules/nav-bar.scss",
+					"settings":
+					{
+						"buffer_size": 3245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2190,
+								2190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 970.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"febrero2014",
+				"revistas/Febrero2014.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"de",
+				"/Applications/MAMP/htdocs/destinogourmet-new-page/destino.sublime-project"
+			],
+			[
+				"pe",
+				"/Applications/MAMP/htdocs/pemex/pemex.sublime-project"
+			],
+			[
+				"",
+				"/Applications/MAMP/htdocs/destinogourmet-new-page/destino.sublime-project"
+			],
+			[
+				"des",
+				"/Applications/MAMP/htdocs/destinogourmet-new-page/destino.sublime-project"
+			],
+			[
+				"cura",
+				"/Applications/MAMP/htdocs/Curatel/curatel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}

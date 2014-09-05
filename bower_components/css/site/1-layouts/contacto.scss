@@ -1,0 +1,128 @@
+.contacto
+{
+    margin-top: 50px;
+    
+    
+    .titulo
+    {
+        text-align: center;
+    }
+    
+    .fondo-contenido
+    {
+        @include span-columns(10);
+        min-height: 480px;
+        @include linear-gradient(#0067B2,#1D2B70);
+        box-shadow: 5px 5px 5px #888888;
+        margin: auto !important;
+        float: none;
+        
+        
+        .contenido
+        {   
+            .izq
+            {
+                @include span-columns(6);
+                @include shift(.5);
+                .arriba
+                {
+                    height: 50px;
+                }
+                .medio
+                {   
+                    height: 100px;
+                    
+                    >ul
+                    {
+                        padding-left: 30px;
+                        >li
+                        {   
+                            color: white;
+                            font-size: 16px;
+                            list-style-image: url(../../../../assets/images/nosotros-list-dot.png);
+                        }
+                    }
+                    
+                }
+                .medio-2
+                {
+                    height: 200px;
+                    
+                    >p
+                    {   
+                        @include shift(.5);
+                        color: white;
+                        text-align: justify;
+                    }
+                }
+                .abajo
+                {
+                    height: 50px;
+                    >img
+                    {
+                        @include shift(3);
+                    }
+                }
+                h3
+                {
+                    color: white;
+                    font-size: 16px;
+                    text-transform: uppercase;
+                    
+                }
+                
+                .titulo-2
+                {
+                    padding-top: 10px;
+                }
+                
+                .logo
+                {
+                    width: 128px;
+            
+                }
+                
+                .icono
+                {
+                    @include span-columns(1);
+                    
+                }
+                .icono-aqui
+                {
+                    @include span-columns(1);
+                    
+                }
+                
+            }
+            .derecha
+            {
+                @include span-columns(5);
+                padding-top: 20px;
+                height: 400px;
+                >form
+                {
+                    >input
+                    {
+                        margin-top: 20px;
+                        &:first-child
+                        {
+                            margin-top: 0px;
+                        }
+                    }
+                    >textarea
+                    {
+                        margin-top: 20px;
+                    }
+                    >input[type=submit]
+                    {
+                        @include shift(8);
+                        background-color: #ff0606;
+                    }
+                }
+               
+            }
+        }
+    }
+    
+    
+}

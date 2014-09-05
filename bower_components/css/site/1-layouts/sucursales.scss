@@ -1,0 +1,205 @@
+.sucursales
+{
+    margin-top: 50px;
+    
+    .titulo
+    {
+        text-align: center;
+    }
+    
+    .fondo-contenido
+    {
+        @include span-columns(10);
+        min-height: 480px;
+        @include linear-gradient(#0067B2,#1D2B70);
+        box-shadow: 5px 5px 5px #888888;
+        margin: auto !important;
+        float: none;
+        
+        
+        .contenido
+        {   
+            table  
+            {
+                height: 350px;
+                color: white;
+            }
+            .arriba
+            {
+                >ul
+                {
+                    @include clearfix();
+                    padding: 0px;
+                    height: 69px;
+
+
+                    >li
+                    {
+                        list-style-type: none;
+                        &:first-child
+                        {
+                            padding-left: 15px;
+                        }
+                        line-height: 69px;
+
+                        >h1
+                        {
+                            color: white;
+                            //text-transform: uppercase;
+
+                        }
+                    }  
+                 }
+                
+                .nombre-qr
+                {
+                    @include span-columns(4);
+                }
+                .nombre-cam
+                {
+                    @include span-columns(4);
+                }
+                .nombre-yuc
+                {
+                    @include span-columns(3);
+                }
+                .mundo
+                {   
+                    
+                    @include span-columns(2);
+
+                }
+                .logo
+                {
+                    @include span-columns(3);
+                    float: right;
+
+                }
+              }
+            
+            .texto
+            {             
+                height: 350px;
+                
+                >div
+                {   
+                    @include span-columns(2.5);
+                    @include omega(5n);
+                    background-color: #D5EDFA;
+                    height: 100%;
+                    margin: 0px;
+                    
+                    &:first-child
+                    {
+                        margin-left: 2.5%;
+                    }
+                    &:nth-child(even)
+                    {
+                        background-color: #C1E4F3;
+                    }
+                    
+                    >ul
+                    {  
+                        padding-left: 20px;
+                        padding-right: 5px;
+                        
+                        >li
+                        {
+                            margin: 10px 0px 10px 0px;
+                            font-weight: 600;
+                            color: #302683;
+                            list-style-image: url(../../../assets/images/sucursales-list-dot.png);
+                        }
+                    }
+                }
+                
+                
+                
+            }
+            
+            .abajo
+            {
+                max-height: 50px;
+                margin-top: 15px;
+                
+                >ul
+                {
+                    padding: 0px;
+                    height: 21px;
+                    
+
+
+                    >li
+                    {
+                        list-style-type: none;
+                        line-height: 21px;
+                        
+                        >span
+                        {
+                            color: white;
+                        }
+                        
+                        >a
+                        {
+                            color: white;
+                            text-decoration: none;
+                            &:hover
+                            {
+                                color: #b5b5b5;
+                            }
+                        }
+                        
+                    
+                    }  
+                    >li:first-child
+                    {
+                        padding-left: 10px;
+                    }
+                 }
+                
+                .otros-estados-yuc
+                {
+                    @include shift(8);
+                    @include span-columns(2);
+
+                }
+                
+                .otros-estados-cam
+                {
+                    @include shift(7);
+                    @include span-columns(2);
+
+                }
+                .otros-estados-qr
+                {
+                    @include shift(8);
+                    @include span-columns(2);
+
+                }
+                .pag
+                {
+                    @include span-columns(1);
+                    text-align: right;
+                    margin-right: 5px;
+                }
+                .next
+                {
+                    @include span-columns(1);
+                }
+                
+                .prev
+                {
+                    @include span-columns(1);
+                    text-align: right;
+                    margin: 0px;
+                }
+                
+            }
+            
+            
+            
+        }
+    }
+    
+    
+}

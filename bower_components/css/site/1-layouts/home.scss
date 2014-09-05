@@ -1,0 +1,14 @@
+//Home Layout
+
+.relleno
+{
+    min-height: 720px;
+    background-image: url(../../images/fondo.jpg);
+    background-size: cover;
+    background-position: -250px 0px;
+}
+
+.contenedor
+{
+    @include outer-container();
+}

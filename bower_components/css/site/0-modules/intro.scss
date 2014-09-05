@@ -1,0 +1,119 @@
+
+        .bx-wrapper
+        {
+            .bx-viewport
+            {
+                background: transparent;
+                border: 0px;
+                box-shadow: none;
+            }
+            .bx-pager
+            {
+                text-align: left;
+                bottom: 15px !important;
+                left: 50px;
+                
+            }
+        }
+
+        .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+        position: absolute;
+        }
+
+        .banner 
+        {
+            width: 870px;
+            height: 430px;
+            margin: 40px auto 20px;
+            position: relative;
+            box-shadow: 3px 5px 17px rgba(0, 0, 0, 0.6);
+            h1.loNuevo
+            {
+                text-indent: -9999px;
+                background: url('../../images/banner/nuevo.png');
+                margin: 0px;
+                width: 167px;
+                height: 92px;
+                top: 30px;
+                left: -31px;
+                float: left;
+                position: absolute;
+                z-index: 1;
+                background-repeat: no-repeat;
+                background-size: 165px;
+            }
+            .banner-slide
+            {
+                img
+                {
+                    display: block;
+                    margin: auto;
+                    height: 430px;
+                }
+            }
+        }
+
+        .banner-ch
+        {
+            width: 100%;
+            padding: 0px 41px;
+            ul
+            {
+                @include outer-container();
+                padding: 0px;
+                li
+                {
+                    list-style-type: none;
+                    height: 200px;
+                    @include span-columns(4);
+                    background-color: white;
+                    margin-bottom: 20px;
+                    box-shadow: 10px 10px 5px #888888;
+                    position: relative;
+                    h1.etiqueta 
+                    {
+                        text-indent: -9999px;
+                        background-size: 278px;
+                        margin: 0px;
+                        background: url('../../images/etiqueta-cuadros.png') no-repeat;
+                        
+                    }
+                    h1.etiqueta.registro {
+                        background-position: 0px 0px;             
+                        position: absolute;
+                        float: left;
+                        left: -18px;
+                        top: 0px;
+                        width: 102px;
+                        height: 70px;
+                    }
+                    h1.etiqueta.noticia {
+                        background-position: -117px 0px;
+                        position: absolute;
+                        float: left;
+                        left: -16px;
+                        top: 0px;
+                        width: 102px;
+                        height: 70px;
+                    }
+                    h1.etiqueta.boletin {
+                        background-position: -238px 0px;
+                        position: absolute;
+                        float: left;
+                        left: -18px;
+                        top: 0px;
+                        width: 102px;
+                        height: 70px;
+                    }
+                    
+                    img.logo
+                    {
+                        @include shift(4.5);
+                        
+                    }
+                }
+
+            }
+
+        }
+        

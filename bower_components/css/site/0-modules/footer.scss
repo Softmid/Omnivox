@@ -1,0 +1,154 @@
+footer
+{
+    
+    .logos
+    {
+        @include fill-parent();
+        @include linear-gradient(#0e71b8,#1d2c71);
+        min-height: 130px;
+        
+        .contenedor
+        {
+            @include outer-container();
+            
+        
+            .redes-sociales
+            {
+
+                @include span-columns(4);
+                @include omega();
+                span 
+                {
+                    margin-top: 10px;
+                    color: white;
+                    font-size: 14px;
+                    font-weight: 400;
+                    display: block;
+
+                }
+
+                a 
+                {   
+                    margin-top: 5px;
+                    color: white;
+                    text-decoration: none;
+
+                }
+
+                a:hover
+                {
+                    color: #EF7C00;
+                }
+                
+                img
+                {
+                    display: block;
+                    margin-top: 5px;
+                }
+                
+
+            }
+
+            .amigo
+            {
+                @include span-columns(4);
+                @include omega();
+                
+                span 
+                {
+                    
+                    margin-top: 10px;
+                    text-align: center;
+                    color: white;
+                    font-size: 14px;
+                    font-weight: 400;
+                    display: block;
+
+                }
+                
+                img 
+                {
+                    display: block;
+                    margin: auto;
+                }
+
+            }
+            
+            .telcel
+            {
+                @include span-columns(4);
+                @include omega();
+                float: right;
+                img
+                {
+                    display: block;
+                    float: right;
+                    margin-top: 30px;
+                }
+            }
+            
+            
+            
+        }
+    }
+    
+    .separador
+    {
+        @include fill-parent();
+        @include omega();
+        background-color: #1D70B7;
+        height: 5px;
+            
+    }
+    
+    .back-creditos
+    {
+        @include fill-parent();
+        @include omega();
+        @include radial-gradient(#0055A4,#1d2c71);
+        min-height: 80px;
+        
+        .contenedor
+        {
+            
+            .creditos
+            {   
+                .omnivox
+                {
+                    @include span-columns(4);
+                    @include shift(5);
+                    
+                    img
+                    {
+                        margin-top: 10px;
+                    }
+                }
+                .desarrollo
+                {
+                    @include span-columns(3);
+                    span 
+                    {
+
+                        margin-top: 5px;
+                        margin-right: 5px;
+                        text-align: center;
+                        color: white;
+                        font-size: 11px;
+                        font-weight: 300;
+                        display: block;
+
+                    }
+                    img 
+                    {
+                        margin-top: 5px;
+                        margin-right: 10px;
+                        margin: auto;
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+    
+    
+}

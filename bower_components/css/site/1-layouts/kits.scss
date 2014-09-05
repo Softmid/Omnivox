@@ -1,0 +1,14 @@
+.contenedor-iframe
+{
+    padding-top: 50px;
+    @include span-columns(10);
+    min-height: 480px;
+    margin: auto !important;
+    float: none;
+    
+    iframe 
+    {
+        width: 100%;
+        min-height: 480px;
+    }
+}

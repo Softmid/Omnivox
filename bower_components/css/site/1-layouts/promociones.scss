@@ -1,0 +1,103 @@
+.promociones
+{
+    margin-top: 50px;
+    
+    .titulo
+    {
+        text-align: center;
+    }
+    
+    .fondo-contenido
+    {
+        @include span-columns(10);
+        min-height: 480px;
+        @include linear-gradient(#0067B2,#1D2B70);
+        box-shadow: 5px 5px 5px #888888;
+        margin: auto !important;
+        float: none;
+        
+        .contenido
+        {   
+            
+            .arriba
+            {
+                >ul
+                {
+                    @include clearfix();
+                    padding: 0px;
+                    height: 69px;
+
+
+                    >li
+                    {
+                        list-style-type: none;
+                        &:first-child
+                        {
+                            padding-left: 15px;
+                        }
+                        line-height: 69px;
+
+                        >h1
+                        {
+                            color: white;
+                            //text-transform: uppercase;
+
+                        }
+                    }  
+                 }
+                
+                .nombre-promociones
+                {
+                    @include span-columns(5);
+                }
+                
+                .logo
+                {
+                    @include span-columns(3);
+                    float: right;
+
+                }
+            }
+            
+            .promos
+            {   @include span-columns(12);
+                margin-top: 30px;
+                >a
+                {
+                    >img
+                    {   
+                        @include span-columns(4);
+                        //margin-right: 10px !important;
+                        &:first-child
+                        {
+                            margin-left: 10px;
+                        }
+                       
+                    }
+                    
+                }
+                
+            }
+        }
+    
+        
+    }
+    
+    
+}//promociones
+
+
+.fancybox-next span {
+    background-image: url('../../images/next-promo.png');
+    background-position: 0px;
+    background-size: cover;
+    width: 50px;
+    height: 65px;
+}
+.fancybox-prev span {
+    background-image: url('../../images/prev-promo.png');
+    background-position: 0px;
+    background-size: cover;
+    width: 50px;
+    height: 65px;
+}

@@ -1,0 +1,118 @@
+.nosotros
+{
+    margin-top: 50px;
+    
+    .titulo
+    {
+        text-align: center;
+    }
+    
+    .fondo-contenido
+    {
+        @include span-columns(10);
+        min-height: 480px;
+        @include linear-gradient(#0067B2,#1D2B70);
+        box-shadow: 5px 5px 5px #888888;
+        margin: auto !important;
+        float: none;
+        
+        
+        .contenido
+        {   
+            
+            .arriba
+            {
+                @include span-columns(11);  
+                @include shift(.5);
+                height: 100px;
+                
+            
+                >h1
+                {
+                    color: white;
+                    display: table-cell;
+                    vertical-align: bottom;
+                    text-transform: uppercase;
+                    padding-top: 40px;
+                    
+                }
+                
+                #titulo-1
+                {
+                    @include span-columns(5);
+                    
+                    
+                }
+                #titulo-2
+                {
+                    @include span-columns(7);
+                    
+                
+                }
+              
+            }
+            
+            .texto
+            {   
+                @include span-columns(11);  
+                @include shift(.5);
+                color: white;
+                font-size: 16px;
+                height: 275px;
+               
+                >p
+                {
+                    margin: auto;
+                    font-size: 16px;
+                    color: #fff;
+                    text-align: justify;
+                    padding-top: 40px;
+                    
+                    
+                }
+                
+                #texto-1
+                {
+                    @include span-columns(5);
+                    padding-top: 20px;
+                    >ul
+                    {
+                        
+                         >li
+                        {
+                            
+                            list-style-image: url('../../../assets/images/nosotros-list-dot.png');
+                        }
+                        
+                    }
+                    
+                }
+                #texto-2
+                {
+                    @include span-columns(7);
+                    padding-top: 20px;
+                
+                }
+                
+                
+            }
+            
+            .abajo
+            {
+                @include span-columns(5);  
+                @include shift(5);
+                
+                >img
+                {
+                    @include span-columns(5);
+                }
+                
+            }
+            
+            
+            
+        }
+    }
+    
+    
+}
